@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<extension id="html5shiv" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+<extension id="HTML5Shiv" xmlns="http://symphony-cms.com/schemas/extension/1.0">
 	<name>HTML5Shiv</name>
 	<description>Includes the HTML5Shiv in all administration pages.</description>
     <repo type="github">https://github.com/passbe/html5shiv</repo>
