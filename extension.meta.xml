@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension id="html5shiv" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>HTML5Shiv</name>
+	<description>Includes the HTML5Shiv in all administration pages.</description>
+    <repo type="github">https://github.com/passbe/html5shiv</repo>
+    <types>
+        <type>Interface</type>
+    </types>
+	<authors>
+		<author>
+			<name github="passbe" symphony="passbe">Ben Passmore</name>
+            <email>contact@passbe.com</email>
+            <website>http://www.passbe.com</website>
+		</author>
+	</authors>
+	<releases>
+        <release version="1.0" date="2012-06-26" min="2.3"/>
+	</releases>
+</extension>
