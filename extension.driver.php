@@ -1,6 +1,6 @@
 <?php
 	
-	Class extension_html5shiv extends Extension
+	Class extension_HTML5Shiv extends Extension
 	{
 
 		public function getSubscribedDelegates() {
